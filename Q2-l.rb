@@ -1,0 +1,11 @@
+
+puts "DESCOBRINDO O VOLUME DA ESFERA "
+puts "QUAL O VALOR DO RAIO"
+RAIO = gets.chomp.to_f
+puts ""
+
+
+#### CALCULO DE AREA DE CIRCUNFERENCIA #####
+VOLUME = (4/3) * 3.14159 * (RAIO **3).
+
+puts "O VOLUME EH #{VOLUME}"
